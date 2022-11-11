@@ -3,6 +3,8 @@ These simple exercises are designed to introduce you to Jenkins and continuous i
 was written as an exercise for California State University, Chico. I have since modified it to be a simple exercise for
 anyone to use. There will be a new version of the exercise that utilizes declarative Jenkinsfiles. 
 
+
+
 ## Overview
 1. [Original Exercise - "Standard Jenkins Jobs"](original/README.md)
 2. Declarative Jenkinsfiles _coming soon_. 
